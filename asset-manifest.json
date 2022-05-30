@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zp-advent-calendar/static/css/main.2a313ab9.css",
+    "main.js": "/zp-advent-calendar/static/js/main.ff220cf3.js",
+    "static/js/787.7d8d803b.chunk.js": "/zp-advent-calendar/static/js/787.7d8d803b.chunk.js",
+    "index.html": "/zp-advent-calendar/index.html",
+    "static/media/xButton.svg": "/zp-advent-calendar/static/media/xButton.ae777ea14ed6c6cf7e07c9a903dc48f9.svg",
+    "main.2a313ab9.css.map": "/zp-advent-calendar/static/css/main.2a313ab9.css.map",
+    "main.ff220cf3.js.map": "/zp-advent-calendar/static/js/main.ff220cf3.js.map",
+    "787.7d8d803b.chunk.js.map": "/zp-advent-calendar/static/js/787.7d8d803b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a313ab9.css",
+    "static/js/main.ff220cf3.js"
+  ]
+}
